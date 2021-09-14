@@ -54,7 +54,7 @@ main{
 button{
     border: none;
     border-radius: 15px;
-    padding:10px;
+    padding: 10px 20px 10px 20px;
     background-color:#6d88ad  ;
     font-size: 18px;
     color: #F9FAF8;
@@ -62,4 +62,14 @@ button{
 }
 button:hover{
     background-color:#ad926d ;
+}
+.mid{
+    display: flex;
+    gap: 20px;
+}
+.boxes{
+    flex: 1;
+    border: 1px solid red;
+    background-color: darkkhaki;
+    padding: 60px;
 }
