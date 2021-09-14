@@ -3,6 +3,9 @@
     padding: 0%;
     font-family: sans-serif;
 }
+::selection{
+    background-color: #6dad92;
+}
 nav{
     gap: 10px;
     padding: 15px;
@@ -40,6 +43,9 @@ main{
     font-size: 30px;
     color:#F9FAF8;
 }
+.main-header{
+    color: #ad6d88;
+}
 .two{
     position: relative;
     left: 100px;
@@ -56,13 +62,16 @@ button{
     border: none;
     border-radius: 15px;
     padding: 10px 20px 10px 20px;
-    background-color:#6d88ad  ;
+    background-color:#6d88ad;;
     font-size: 18px;
     color: #F9FAF8;
 
 }
 button:hover{
-    background-color:#ad926d ;
+    background-color:#ad6d88 ;
+}
+a:hover{
+    color: #6dad92;
 }
 .mid-containers{
     display: flex;
