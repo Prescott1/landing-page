@@ -61,7 +61,7 @@ main{
 button{
     cursor: pointer;
     border: none;
-    border-radius: 15px;
+    border-radius: 3em;
     padding: 10px 20px 10px 20px;
     background:linear-gradient(
         20deg,
