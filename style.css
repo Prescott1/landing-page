@@ -24,6 +24,7 @@ nav{
     font-size: 18px;
     color: #E5E7EB;
 }
+
 .main-logo{
     padding-left: 80px;
     padding-bottom: 80px;
@@ -72,8 +73,12 @@ button{
     color: #F9FAF8;
 
 }
+button:hover{
+    transform: scale(1.1);
+}
 .nav-link:hover{
     color:#6dad92;
+    transform: scale(1.1);
 }
 
 .mid-containers{
