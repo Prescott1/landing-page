@@ -78,6 +78,7 @@ button{
 }
 button:hover{
     transform: scale(1.1);
+    border: 1px solid #F9FAF8;
 }
 .nav-link:hover{
     color:#6dad92;
