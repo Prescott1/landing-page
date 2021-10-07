@@ -50,10 +50,7 @@ main{
 .main-header{
     color: #ad6d88;
 }
-.two{
-    position: relative;
-    left: 100px;
-}
+
 .small-text{
     font-size: 18px;
     padding-bottom: 7px;
@@ -74,8 +71,8 @@ button{
     );
     font-size: 18px;
     color: #F9FAF8;
-
 }
+
 button:hover{
     transform: scale(1.1);
     border: 1px solid #F9FAF8;
@@ -165,3 +162,5 @@ footer{
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+
